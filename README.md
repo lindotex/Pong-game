@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <img src="./assets/pong.jpg" alt="Image Example" width="100px">
+    <img src="./assets/pong.jpg" alt="Image Example" width="300px">
 </p>
 
 <h2 id="started">📌 About</h2>
